@@ -1,0 +1,25 @@
+{
+    "id": "A088E02B",
+    "path": "~/Projetos de R/Shiny app e MySQL/Shiny e banco de dados MySQL/Shiny e MySQL.R",
+    "project_path": "Shiny e MySQL.R",
+    "type": "r_source",
+    "hash": "1744110074",
+    "contents": "",
+    "dirty": false,
+    "created": 1624737742500.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "58,31",
+        "scrollLine": "45"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1624737973,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1624737973818,
+    "read_only": false,
+    "read_only_alternatives": []
+}
